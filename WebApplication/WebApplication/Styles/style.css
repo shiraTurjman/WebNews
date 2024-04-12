@@ -1,0 +1,22 @@
+﻿.topic {
+	cursor: pointer;
+	margin-bottom: 20px;
+	border: 1px solid blue;
+	
+}
+
+
+.postDetails {
+	margin-top: 20px;
+	border: 1px solid green;
+}
+
+.container {
+	
+	display: grid;
+	grid-template-columns: 1fr 1fr; 
+	gap: 20px; 
+
+
+}
+
